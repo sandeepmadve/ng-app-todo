@@ -1,2 +1,2 @@
-# ng-todo-app
+# Angular TODO Application
 TODO Application using angular
